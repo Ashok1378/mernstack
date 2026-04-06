@@ -1,0 +1,5 @@
+{
+  "name": "CineReview",
+  "description": "A premium movie discovery and review platform where users can search movies, filter by language, and share their cinematic experiences.",
+  "requestFramePermissions": []
+}
